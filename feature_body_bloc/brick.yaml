@@ -1,9 +1,9 @@
 name: feature_body_bloc
-description: A new brick created with the Mason CLI.
+description: A new brick created with the Mason CLI, to use in clean achitecture
 
 # The following defines the brick repository url.
 # Uncomment and update the following line before publishing the brick.
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/ajayprasath631/brick_bloc_clean_architecture/tree/main/feature_body_bloc
 
 # The following defines the version and build number for your brick.
 # A version number is three numbers separated by dots, like 1.2.34
