@@ -26,7 +26,7 @@ A few resources to get you started if this is your first brick template:
 [6]: https://youtu.be/o8B1EfcUisw
 [7]: https://youtu.be/LXhgiF5HiQg
 
-## aading local brick to mason
+## adding local brick to mason
     mason add feature_body_bloc  --path packages/feature_body_bloc
 
 ## adding to mason
